@@ -1,6 +1,5 @@
-<p align="center"><a href="https://github.com/quanminhvu"><img width="80%" src="./header.png" /></a></p>
 <div align="center">
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/icon.png" />
+<img src="./header.png" />
 </div>
 <br />
 
